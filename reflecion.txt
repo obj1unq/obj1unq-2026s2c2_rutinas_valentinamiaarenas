@@ -1,4 +1,0 @@
-1. En la clase Persona se tiene un template method, con el metodo "realizarRutina(rutina),
-donde tambien se encuentra un hook method, con el metodo "validarRutina(rutina)". En la clase 
-Persona tambien tiene otros metodos hooks como "tiempoDeRutina()" y "caloriasPorKilo()".
-Las clases que implementan estos metodos son las clases "PersonaSedentaria" y "PersonaAtletica".
